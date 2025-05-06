@@ -4,7 +4,7 @@
 WEST AFRICA CRIME ANALYSIS 
  
 **Data Visualization & Insights**
-This comprehensive dashboard presents a multi-dimensional analysis of crime trends across West African countries, with a special focus on fatalities, weapon usage, perpetrator groups, and regional hot zones. The objective is to support policymakers, researchers, and humanitarian organizations in understanding the evolving landscape of violence across the region.
+This comprehensive Analysis presents a multi-dimensional analysis of crime trends across West African countries, with a special focus on fatalities, weapon usage, perpetrator groups, and regional hot zones. The objective is to support policymakers, researchers, and humanitarian organizations in understanding the evolving landscape of violence across the region.
 
 **Summary Metrics**
 Total Fatalities: 6,862
